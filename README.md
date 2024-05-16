@@ -29,5 +29,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jt-tanui&show_icons=true&locale=en" alt="jt-tanui" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jt-tanui&" alt="jt-tanui" /></p>
+
 
