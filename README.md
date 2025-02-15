@@ -11,30 +11,30 @@
 I'm a dedicated **Software Engineer** with a strong focus on **cloud computing, full-stack development, and DevOps**. I enjoy solving complex problems, building scalable applications, and automating workflows.
 
 - 🔬 **Currently Working On:**  
-  - A **corporate website for AMC**  
-  - A **travel & tour agency platform**  
-  - **POS We Calc** (Built with Dart & Flutter for all architectures using Electron)
-  - Open-source contributions (**OpenDevin**)
+  - **Mac & Too Travel Agency Platform** – A corporate website for **Mac & Too Agency**, integrating travel and tour booking solutions.  
+  - **POS We Calc** – A multi-platform POS system using **Dart & Flutter** with **Electron**.  
+  - **SwiftX** – A ride-hailing & school transport app tailored for African cities.  
+  - Open-source contributions to **OpenDevin** – AI-driven software development.  
 
 - 🌱 **Currently Learning:**  
-  - **Cloud Computing & DevOps** (AWS, Infrastructure as Code, CI/CD)  
-  - **Advanced Backend Development** (Node.js, Ruby on Rails, Laravel)  
-  - **Cybersecurity** (IBM Course)  
+  - **Cloud Computing & DevOps** – AWS, Infrastructure as Code, CI/CD pipelines.  
+  - **Advanced Backend Development** – Exploring **Node.js, Ruby on Rails, and Laravel** for scalable APIs.  
+  - **Cybersecurity** – Enhancing knowledge through IBM's cybersecurity course.  
 
 - 🤝 **Looking to Collaborate On:**  
-  - **OpenDevin** (AI-driven software development)  
-  - **Cloud-based SaaS Projects**  
-  - **Innovative Web & Mobile Apps**  
+  - **OpenDevin** – AI-driven development automation.  
+  - **Cloud-based SaaS Projects** – Building scalable and serverless solutions.  
+  - **Web & Mobile Applications** – Innovative tech-driven solutions.  
 
 - 🤟 **Seeking Help With:**  
-  - **Backend Development** (Optimized APIs, Microservices, Serverless Architectures)  
-  - **Scaling Cloud Infrastructure** (Kubernetes, Terraform, Ansible, AWS CloudFormation)  
+  - **Backend Development** – Optimizing APIs, microservices, and serverless architectures.  
+  - **Scaling Cloud Infrastructure** – Kubernetes, Terraform, Ansible, and AWS CloudFormation.  
 
 - 💬 **Ask Me About:**  
-  - Frontend Development (**React.js, HTML, CSS, Tailwind**)  
-  - Cloud & DevOps (**AWS, Docker, GitHub Actions**)  
-  - Automation & Scripting (**Python, Bash, Node.js**)  
-  - Web Scraping & Data Extraction  
+  - Frontend Development – **React.js, HTML, CSS, Tailwind**.  
+  - Cloud & DevOps – **AWS, Docker, GitHub Actions**.  
+  - Automation & Scripting – **Python, Bash, Node.js**.  
+  - Web Scraping & Data Extraction – Techniques for structured and unstructured data.  
 
 - 💌 **Let's Connect:**  
   - **Email:** [Tanuijobs11@gmail.com](mailto:Tanuijobs11@gmail.com)  
@@ -57,27 +57,20 @@ I'm a dedicated **Software Engineer** with a strong focus on **cloud computing, 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="50" height="50"/>
 </p>
 
-### Frontend Development
+### Frameworks & Libraries
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="Ruby on Rails" width="50" height="50"/>
 </p>
 
-### Backend Development
+### DevOps & Cloud
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby on Rails" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="50" height="50"/>
-</p>
-
-### Cloud & DevOps
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="AWS" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Actions" width="50" height="50"/>
 </p>
 
 ---
@@ -92,7 +85,20 @@ I'm a dedicated **Software Engineer** with a strong focus on **cloud computing, 
 
 ---
 
+## 🎯 Pinned Projects
+Here are some of my notable projects:  
+- 🚀 **[Charge Monitor](https://github.com/JT-tanui/CM---Charge-Monitor)** – A Windows battery notifier app built with C#.  
+- 🛠 **[Recipe Manager](https://github.com/JT-tanui/recipe-manager)** – A C# & SQLite-based recipe management app.  
+- 🌍 **[TeleMed](https://github.com/JT-tanui/telemed)** – A telemedicine platform using **HTML, CSS, JavaScript, Node.js & MySQL**.  
+- 🏆 **[SwiftX](https://github.com/JT-tanui/swiftx)** – A **ride-hailing & school transport app** tailored for African cities.  
+
+---
+
 ## 💡 Support My Work
 If you find my work useful, consider **starring** ⭐ my repositories or **buying me a coffee** ☕.
 
----
+<p align="center">
+  <a href="https://www.buymeacoffee.com/jobusienei">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F16061?style=flat&logo=buy-me-a-coffee&logoColor=white" alt="Support Me" />
+  </a>
+</p>
