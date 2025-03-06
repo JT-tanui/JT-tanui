@@ -11,7 +11,7 @@
 I'm a dedicated **Software Engineer** with a strong focus on **cloud computing, full-stack development, and DevOps**. I enjoy solving complex problems, building scalable applications, and automating workflows.
 
 - 🔬 **Currently Working On:**  
-  - **Mac & Too Travel Agency Platform** – A corporate website for **Mac & Too Agency**, integrating travel and tour booking solutions.  
+  - **Mac & Too Marketting Agency Platform** – A corporate website for **Mac & Too Agency**, integrating travel and tour booking solutions.  
   - **POS We Calc** – A multi-platform POS system using **Dart & Flutter** with **Electron**.  
   - **SwiftX** – A ride-hailing & school transport app tailored for African cities.  
   - Open-source contributions to **OpenDevin** – AI-driven software development.  
